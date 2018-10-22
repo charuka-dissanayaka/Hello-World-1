@@ -1,0 +1,6 @@
+begin
+procedure form.ShowAMessage;
+begin
+  ShowMessage('Hello World!');
+end
+end
